@@ -1,5 +1,7 @@
 nug_ripper
 
+![alt text](https://i.imgur.com/q4hdY5x.png "successful console log")
+
 I am not responsible for any misuse of this script -- it does not break any rules and performs no sort of DRM decryption.
 
 # pre reqs
