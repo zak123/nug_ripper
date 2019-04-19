@@ -1,5 +1,7 @@
 nug_ripper
 
+I am not responsible for any misuse of this script -- it does not break any rules and performs no sort of DRM decryption.
+
 # pre reqs
 
 - an account
